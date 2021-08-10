@@ -1,15 +1,3 @@
-   ___ _             _    _ _ _                 
-  |_  (_)           | |  | (_) |                
-    | |_ _ __ ___   | |  | |_| |___  ___  _ __  
-    | | | '_ ` _ \  | |/\| | | / __|/ _ \| '_ \ 
-/\__/ / | | | | | | \  /\  / | \__ \ (_) | | | |
-\____/|_|_| |_| |_|  \/  \/|_|_|___/\___/|_| |_|
-                                                
-                                                
-
-
-
-
 
 -Hi, I’m @jimswilson. Wrote my first website in 1998 (5 years after the internet was born, and you can still see it today ! bit.ly/2DXcTGC
 
